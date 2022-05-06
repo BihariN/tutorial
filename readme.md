@@ -8,3 +8,5 @@ git config --global --list - globális beálítások listázása
 git remote -v - távoli repo-k cymének lekérdezése
 git remote add origin https://github.com/BihariN/tutorial.git - távoli rope hazzáadása origin néven
 git remote remove origin - origin nevű távoli repo eltávolitása
+git add readme.md - változtatások mentése (staging)
+git commit -m "first commit" - commit hozzáadása
