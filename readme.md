@@ -10,3 +10,4 @@ git remote add origin https://github.com/BihariN/tutorial.git - távoli rope haz
 git remote remove origin - origin nevű távoli repo eltávolitása
 git add readme.md - változtatások mentése (staging)
 git commit -m "first commit" - commit hozzáadása
+git brach -M main - az ág átnevezésemain-re
